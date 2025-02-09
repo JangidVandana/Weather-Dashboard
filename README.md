@@ -39,7 +39,7 @@ A beautiful and simple **Weather Dashboard** built using **JavaScript**, **HTML*
 ### Weather Icons
 - Dynamically loads and displays an appropriate weather icon based on the current weather (e.g., sun for sunny weather 🌞, cloud for cloudy weather ☁️, and raindrop for rainy weather 🌧️).
 
-![Weather Dashboard Screenshot](screenshot.png)
+![Weather Dashboard Screenshot](Screenshot.png)
 
 ## API Key 🔑
 
