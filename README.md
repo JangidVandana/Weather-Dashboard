@@ -15,22 +15,6 @@ A beautiful and simple **Weather Dashboard** built using **JavaScript**, **HTML*
 - **JavaScript**: Logic for fetching weather data and dynamically displaying weather icons.
 - **OpenWeatherMap API**: API used for retrieving weather data.
 
-## How to Use 🚀
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/weather-dashboard.git
-   ```
-
-2. Navigate into the project folder:
-   ```bash
-   cd weather-dashboard
-   ```
-
-3. Open the `index.html` file in your browser to view the Weather Dashboard. 🌐
-
-4. Enter the name of a city in the search bar to fetch the current weather and display the corresponding weather icon. 🌈
-
 ## Features & Screenshots 📸
 
 ### Current Weather
@@ -40,24 +24,6 @@ A beautiful and simple **Weather Dashboard** built using **JavaScript**, **HTML*
 - Dynamically loads and displays an appropriate weather icon based on the current weather (e.g., sun for sunny weather 🌞, cloud for cloudy weather ☁️, and raindrop for rainy weather 🌧️).
 
 ![Weather Dashboard Screenshot](Screenshot.png)
-
-## API Key 🔑
-
-To use the OpenWeatherMap API, you'll need to get your **API key**:
-
-1. Go to [OpenWeatherMap](https://openweathermap.org/).
-2. Sign up for an account and generate your free API key.
-3. Replace the `apiKey` variable in `script.js` with your API key.
-
-```js
-const apiKey = "your-api-key-here";
-```
-
-## Installation 🛠️
-
-1. Clone the repository to your local machine.
-2. Open the `index.html` file in a web browser.
-3. The Weather Dashboard will now display weather information and corresponding icons for your searched city. 🌟
 
 ## Future Improvements 🔮
 
